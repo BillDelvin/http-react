@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "afterDelay",
+    "prettier.useTabs": true,
+    "editor.formatOnSave": true,
+    "prettier.trailingComma": "all"
+}
